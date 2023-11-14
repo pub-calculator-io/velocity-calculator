@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Free online velocity calculator solves for v, u, a or t using velocity formula. Calculate the final velocity (v) using the equation v = u + at.
 
-== Description ==
-
-Free online velocity calculator solves for v, u, a or t using velocity formula. Calculate the final velocity (v) using the equation v = u + at.
-
 [https://www.calculator.io/velocity-calculator/](https://www.calculator.io/velocity-calculator/)
 
-__Velocity Calculator Shortcode__
+== Usage ==
+
+Add the Velocity Calculator shortcode to your page, post or sidebar:
 
 `[ci_velocity_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Velocity Calculator to appear:
 
-1. Upload the /ci_velocity_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Velocity Calculator](https://www.calculator.io/velocity-calculator/ "Velocity Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Velocity Calculator Usage ==
-
-* Add the shortcode `[ci_velocity_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_velocity_calculator(); ?>` to your template where you would like the Velocity Calculator to appear.
+`<?php display_ci_velocity_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Velocity Calculator Input Form.
 2. The Velocity Calculator Calculation Results.
 
-== Libraries used in Velocity Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Velocity Calculator /ci_velocity_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Velocity Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Velocity Calculator
