@@ -1,4 +1,4 @@
-# Velocity Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Velocity Calculator Widget for WordPress
 
 Free online velocity calculator solves for v, u, a or t using velocity formula. Calculate the final velocity (v) using the equation v = u + at.
 
