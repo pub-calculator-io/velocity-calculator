@@ -1,4 +1,4 @@
-=== Velocity Calculator ===
+=== Velocity Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: velocity calculator, final velocity calculation, initial velocity, acceleration, travel time, motion equations, physics motion calculation, constant acceleration, distance calculation, speed and acceleration formula
 Requires at least: 5.0

@@ -7,7 +7,7 @@ Free online velocity calculator solves for v, u, a or t using velocity formula. 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/velocity-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /velocity-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Velocity Calculator](https://www.calculator.io/velocity-calculator/ "Velocity Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
