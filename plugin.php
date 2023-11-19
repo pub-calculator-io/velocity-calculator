@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Velocity Calculator by www.calculator.io
+Plugin Name: CI Velocity calculator
 Plugin URI: https://www.calculator.io/velocity-calculator/
 Description: Free online velocity calculator solves for v, u, a or t using velocity formula. Calculate the final velocity (v) using the equation v = u + at.
 Version: 1.0.0
