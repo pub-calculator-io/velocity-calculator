@@ -3,7 +3,6 @@
 Free online velocity calculator solves for v, u, a or t using velocity formula. Calculate the final velocity (v) using the equation v = u + at.
 
 ![Velocity Calculator Input Form](/assets/images/screenshot-1.png "Velocity Calculator Input Form")
-![Velocity Calculator Calculation Results](/assets/images/screenshot-2.png "Velocity Calculator Calculation Results")
 
 ## Installation
 

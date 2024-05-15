@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Velocity Calcul
 == Screenshots ==
 
 1. The Velocity Calculator Input Form.
-2. The Velocity Calculator Calculation Results.
 
 == Installation ==
 
